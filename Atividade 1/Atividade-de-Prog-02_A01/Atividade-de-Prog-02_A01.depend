@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610254214 source:/home/laboissiere/Documents/Labs PCD/Atividade-de-Prog-02_A01/main.c
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+
